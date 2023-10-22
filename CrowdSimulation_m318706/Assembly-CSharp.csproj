@@ -58,8 +58,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FlockManager.cs" />
     <Compile Include="Assets\DropCylinder.cs" />
     <Compile Include="Assets\AIControl.cs" />
+    <Compile Include="Assets\Flock.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Street\Resources\Assets\Materials\2sided.shader" />
